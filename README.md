@@ -1,2 +1,2 @@
 # model_data_general
-Reprodução de modelos, baixar e compilação de dados macro, micro e finanças em geral
+Reprodução de modelos, extração e compilação de dados macro, micro, governo e finanças em geral
